@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "341886310544",
+    "project_id": "treinamentokotlinmessage",
+    "storage_bucket": "treinamentokotlinmessage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341886310544:android:ffd7afaf0a241e06bce015",
+        "android_client_info": {
+          "package_name": "com.example.kotlincontentprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341886310544-hktjeij58bnnibsn37udav2gacau2hg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBsCYbDfkYweMHhl5UG0H0zUz91ks505g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341886310544-hktjeij58bnnibsn37udav2gacau2hg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341886310544:android:828611e493e3ce04bce015",
+        "android_client_info": {
+          "package_name": "com.example.kotlinnotificacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341886310544-hktjeij58bnnibsn37udav2gacau2hg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBsCYbDfkYweMHhl5UG0H0zUz91ks505g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341886310544-hktjeij58bnnibsn37udav2gacau2hg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
